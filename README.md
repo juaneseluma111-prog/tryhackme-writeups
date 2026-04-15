@@ -14,6 +14,14 @@
 
 
 
+\## Cybersecurity 101 Path Completed
+
+!\[Cybersecurity 101] (screenshots/c101-completed(1).png)
+
+!\[Cybersecurity 101] (screenshots/c101-completed(2).png)
+
+
+
 Documentation of my TryHackMe learning journey.
 
 Hands-on cybersecurity practice with methodology and tools.
@@ -26,7 +34,7 @@ Hands-on cybersecurity practice with methodology and tools.
 
 \- Username: jesteban11
 
-\- Current paths: Pre-Security (100%) | Cybersecurity 101 (65%)
+\- Current paths: Pre-Security (100%) | Cybersecurity 101 (100%)
 
 
 
@@ -34,9 +42,11 @@ Hands-on cybersecurity practice with methodology and tools.
 
 \- \[x] Pre-Security Path (100% completed)
 
-\- \[ ] Cybersecurity 101 (65% — in progress)
+\- \[x] Cybersecurity 101 (100% completed — April 2026)
 
 \- \[ ] Jr Penetration Tester (next)
+
+\- \[ ] SOC Level 1 (next)
 
 
 
