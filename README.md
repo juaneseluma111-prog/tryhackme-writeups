@@ -1,90 +1,45 @@
-\# TryHackMe Write-Ups — Juan Esteban Umana Machado
+# TryHackMe write-ups
 
+Notes from the TryHackMe paths I've completed: what each room covered and the commands I used.
 
+## Profile
 
-\## My TryHackMe Profile
+- Username: jesteban11
+- Pre-Security path: 100%
+- Cybersecurity 101 path: 100%, completed on 15 April 2026 (45 hours 23 minutes)
 
-!\[TryHackMe Profile](screenshots/tryhackme-profile.png)
+![TryHackMe profile](screenshots/tryhackme-profile.png.png)
 
+## Completed paths
 
+![Pre-Security completed](screenshots/pre-security-completed.png)
 
-\## Pre-Security Path Completed
+![Cybersecurity 101 completed](screenshots/c101-completed%20%281%29.png)
 
-!\[Pre-Security](screenshots/pre-security-completed.png)
+![Cybersecurity 101 certificate](screenshots/c101-completed%20%282%29.png)
 
+## Write-ups
 
-
-\## Cybersecurity 101 Path Completed
-
-!\[Cybersecurity 101] (screenshots/c101-completed(1).png)
-
-!\[Cybersecurity 101] (screenshots/c101-completed(2).png)
-
-
-
-Documentation of my TryHackMe learning journey.
-
-Hands-on cybersecurity practice with methodology and tools.
-
-
-
-\## Profile
-
-\- Platform: TryHackMe
-
-\- Username: jesteban11
-
-\- Current paths: Pre-Security (100%) | Cybersecurity 101 (100%)
-
-
-
-\## Progress
-
-\- \[x] Pre-Security Path (100% completed)
-
-\- \[x] Cybersecurity 101 (100% completed — April 2026)
-
-\- \[ ] Jr Penetration Tester (next)
-
-\- \[ ] SOC Level 1 (next)
-
-
-
-\## Write-Up Index
-
-
-
-\### Pre-Security
+### Pre-Security
 
 | Room | Difficulty | Category | Date |
+|---|---|---|---|
+| [Network Fundamentals](pre-security/network-fundamentals.md) | Easy | Networking | Apr 2026 |
+| [Linux Fundamentals](pre-security/linux-fundamentals.md) | Easy | Linux | Apr 2026 |
 
-|------|-----------|----------|------|
-
-| \[Network Fundamentals](pre-security/network-fundamentals.md) | Easy | Networking | Apr 2026 |
-
-| \[Linux Fundamentals](pre-security/linux-fundamentals.md) | Easy | Linux | Apr 2026 |
-
-
-
-\### Cybersecurity 101
+### Cybersecurity 101
 
 | Room | Difficulty | Category | Date |
+|---|---|---|---|
+| [Intro to Offensive Security](cybersecurity-101/intro-offensive-security.md) | Easy | Offensive | Apr 2026 |
 
-|------|-----------|----------|------|
+## Next
 
-| \[Intro to Offensive Security](cybersecurity-101/intro-offensive-security.md) | Easy | Offensive | Apr 2026 |
+- [ ] Jr Penetration Tester
+- [ ] SOC Level 1
 
+## Tools used across rooms
 
+Nmap · Gobuster · Burp Suite · Netcat · Hydra · Wireshark · Metasploit · Linux command line · Python
 
-\## Tools Used Across Rooms
-
-\- Nmap, Gobuster, Burp Suite, Netcat, Hydra
-
-\- Linux command line, Python scripting
-
-\- Wireshark, Metasploit
-
-
-
-\*Juan Esteban Umana Machado — linkedin.com/in/juanesumaa11\*
-
+Juan Esteban Umaña Machado · linkedin.com/in/juanesumaa11
